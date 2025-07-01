@@ -12,10 +12,10 @@
 ## 🎥 Project Videos
 
 ### 🔹 Demo 1: Scene Interaction Preview  
-[Watch Demo 1](https://youtu.be/G2m8G8DD-as)
+[🎞️Watch Demo 1](https://youtu.be/G2m8G8DD-as)
 
 ### 🔹 Demo 2: Animation + Tweak Controls
-[Watch Demo 2](https://youtu.be/UJzaEgI9rnQ)
+[🎬Watch Demo 2](https://youtu.be/UJzaEgI9rnQ)
 
 
 ---
