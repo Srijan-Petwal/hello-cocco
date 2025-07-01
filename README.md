@@ -35,8 +35,6 @@ This project is my personal **3D lab** — a place where I explore:
 
 ## 📸 Screenshots
 
-> Replace these placeholders with real screenshots of your project.
-
 ### 🧚 Scene Preview
 ![Scene Preview-1](ScreenShot-2.png)
 ![Scene Preview-2](CoccoWorld.png)
