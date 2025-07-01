@@ -12,10 +12,10 @@
 ## 🎥 Project Videos
 
 ### 🔹 Demo 1: Scene Interaction Preview  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G2m8G8DD-as?si=a4NmDTuFFH_27nZR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch Demo 1]](https://youtu.be/G2m8G8DD-as)
 
-### 🔹 Demo 2: Animation Preview and Tweak Controls  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJzaEgI9rnQ?si=2YA10g-sdiJd637F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### 🔹 Demo 2: Animation + Tweak Controls
+[![Watch Demo 2]](https://youtu.be/UJzaEgI9rnQ)
 
 
 ---
