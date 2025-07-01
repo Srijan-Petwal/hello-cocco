@@ -5,8 +5,18 @@
 
 ---
 
+
 ### 🌐 **Live Demo**
 🚀 [coccos-world.netlify.app](https://coccos-world.netlify.app)
+
+## 🎥 Project Videos
+
+### 🔹 Demo 1: Scene Interaction Preview  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G2m8G8DD-as?si=a4NmDTuFFH_27nZR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### 🔹 Demo 2: Animation Preview and Tweak Controls  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJzaEgI9rnQ?si=2YA10g-sdiJd637F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ---
 
