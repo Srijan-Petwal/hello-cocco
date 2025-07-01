@@ -1,4 +1,4 @@
-# 🌍 Cocco's World
+# 🧚‍♀️ Cocco's World (More like Hello world)
 
 > 🧪 A playground of experiments and learnings with `Three.js`, `React Three Fiber`, and `Blender`.  
 > A journey into the world of interactive 3D experiences — one scene at a time.
@@ -39,7 +39,7 @@ This project is my personal **3D lab** — a place where I explore:
 
 ### 🧚 Scene Preview
 ![Scene Preview-1](ScreenShot-2.png)
-![Scene Preview-2](Screenshot 2025-06-04 011651.png)
+![Scene Preview-2](CoccoWorld.png)
 
 
 ---
