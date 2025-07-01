@@ -17,6 +17,7 @@
 ### 🔹 Demo 2: Animation + Tweak Controls
 [🎬  Watch Demo 2](https://youtu.be/UJzaEgI9rnQ)
 
+>Credit for all the pre-built models goes to their respective creaters, I tweaked them, game some of them animation and optimized them a bit. All of them are under various free-use licenses.
 
 ---
 
