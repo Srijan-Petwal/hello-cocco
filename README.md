@@ -56,7 +56,7 @@ This project is my personal **3D lab** — a place where I explore:
 ## 🛠️ How to Run Locally(try playing with it yourself)
 
 ```bash
-git clone https://github.com/srijan123/coccos-world.git
+git clone https://github.com/Srijan-Petwal/hello-cocco.git
 cd coccos-world
 npm install
 npm run dev
