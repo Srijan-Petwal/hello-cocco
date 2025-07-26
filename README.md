@@ -5,6 +5,14 @@
 
 ---
 
+## 📸 Screenshots
+
+### 🧚 Scene Preview
+![Scene Preview-1](ScreenShot-2.png)
+![Scene Preview-2](CoccoWorld.png)
+
+
+---
 
 ### 🌐 **Live Demo**
 🚀 [coccos-world.netlify.app](https://coccos-world.netlify.app)
@@ -44,15 +52,6 @@ This project is my personal **3D lab** — a place where I explore:
 
 ---
 
-## 📸 Screenshots
-
-### 🧚 Scene Preview
-![Scene Preview-1](ScreenShot-2.png)
-![Scene Preview-2](CoccoWorld.png)
-
-
----
-
 ## 🛠️ How to Run Locally(try playing with it yourself)
 
 ```bash
@@ -60,3 +59,30 @@ git clone https://github.com/Srijan-Petwal/hello-cocco.git
 cd coccos-world
 npm install
 npm run dev
+
+```
+---
+## 🐳 Now Runs in Docker!
+
+> You can now run the entire project inside a Docker container — no need to install Node, Vite, or any dependencies manually.
+
+This makes previewing the project locally much easier and cleaner. Ideal for sandbox testing, sharing, or running in isolated environments.
+---
+
+## 🧰 What It Takes to Run Locally with Docker
+
+To run this project locally using Docker, you need just a few things set up:
+
+#### ✅ Prerequisites
+
+- **Docker Desktop installed**  
+  → [Download Docker](https://www.docker.com/products/docker-desktop)  
+- **Working internet connection** (for the first-time image pull)
+
+---
+
+#### 🚀 Steps to Run in Docker
+
+```bash
+# Pull and run the container
+docker run -it -p 3000:3000 srijan5/cocco-world
