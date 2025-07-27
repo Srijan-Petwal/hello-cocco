@@ -58,6 +58,7 @@ _(Hosted on AWS EC2 — may take a few seconds to wake up if idle)_
 ```bash
 docker run --restart=always -p 3000:3000 srijan5/cocco-world
 
+```
 ## 🎥 Project Videos
 
 ### 🔹 Demo 1: Scene Interaction Preview  
