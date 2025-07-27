@@ -29,6 +29,34 @@
 🔗 [http://16.171.199.186:3000](http://16.171.199.186:3000)  
 _(Hosted on AWS EC2 — may take a few seconds to wake up if idle)_
 
+---
+
+### EC2- Instance Screenshot
+
+![EC2 Dashboard](EC2-instance.png)
+---
+
+### 💡About Why AWS EC2 Deployment?
+
+- 🛠️ To **learn and practice real-world deployment**.
+- 🐳 Run the app inside a **Docker container** on a **Linux VM**.
+- 🔐 Handle **firewall settings, ports, and SSH access** manually.
+- 🌍 Gain **deeper insight** into how full-stack apps run on the cloud.
+
+---
+
+### 🧪 Tech Stack Used
+
+- Amazon EC2 (Ubuntu)
+- Docker (Containerized deployment)
+- Public IP with exposed port `3000`
+
+---
+
+### 📦 Deployed Container Command
+
+```bash
+docker run --restart=always -p 3000:3000 srijan5/cocco-world
 
 ## 🎥 Project Videos
 
@@ -100,31 +128,4 @@ To run this project locally using Docker, you need just a few things set up:
 # Pull and run the container
 docker run -it -p 3000:3000 srijan5/cocco-world
 ```
----
 
-### EC2- Instance Screenshot
-
-![EC2 Dashboard](EC2-instance.png)
----
-
-### 💡About Why AWS EC2 Deployment?
-
-- 🛠️ To **learn and practice real-world deployment**.
-- 🐳 Run the app inside a **Docker container** on a **Linux VM**.
-- 🔐 Handle **firewall settings, ports, and SSH access** manually.
-- 🌍 Gain **deeper insight** into how full-stack apps run on the cloud.
-
----
-
-### 🧪 Tech Stack Used
-
-- Amazon EC2 (Ubuntu)
-- Docker (Containerized deployment)
-- Public IP with exposed port `3000`
-
----
-
-### 📦 Deployed Container Command
-
-```bash
-docker run --restart=always -p 3000:3000 srijan5/cocco-world
