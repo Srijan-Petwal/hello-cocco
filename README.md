@@ -1,4 +1,4 @@
-# 🧚‍♀️ Cocco's World (More like Hello world)
+# 🧚‍♀️ Cocco's World (More like Hello world😄)
 
 > 🧪 A playground of experiments and learnings with `Three.js`, `React Three Fiber`, and `Blender`.  
 > A journey into the world of interactive 3D experiences — one scene at a time.
