@@ -18,6 +18,8 @@
 
 ---
 
+
+
 ### 🌐 **Live Demo with Netlify**
 🚀 [coccos-world.netlify.app](https://coccos-world.netlify.app)
 
@@ -31,10 +33,16 @@ _(Hosted on AWS EC2 — may take a few seconds to wake up if idle)_
 
 ---
 
+
+
 ### EC2- Instance Screenshot
 
 ![EC2 Dashboard](EC2-instance.png)
+
+
 ---
+
+
 
 ### 💡About Why AWS EC2 Deployment?
 
@@ -51,6 +59,8 @@ _(Hosted on AWS EC2 — may take a few seconds to wake up if idle)_
 - Docker (Containerized deployment)
 - Public IP with exposed port `3000`
 
+
+
 ---
 
 ### 📦 Deployed Container Command
@@ -59,6 +69,8 @@ _(Hosted on AWS EC2 — may take a few seconds to wake up if idle)_
 docker run --restart=always -p 3000:3000 srijan5/cocco-world
 
 ```
+
+
 ## 🎥 Project Videos
 
 ### 🔹 Demo 1: Scene Interaction Preview  
@@ -71,6 +83,8 @@ docker run --restart=always -p 3000:3000 srijan5/cocco-world
 
 ---
 
+
+
 ## 🧠 About
 
 This project is my personal **3D lab** — a place where I explore:
@@ -82,8 +96,8 @@ This project is my personal **3D lab** — a place where I explore:
 
 > If it's 3D and on the web, this is where I tinker with it!
 
----
 
+---
 ## 🚀 Tech Stack
 
 | Frontend | 3D/Rendering | Assets |
@@ -93,6 +107,8 @@ This project is my personal **3D lab** — a place where I explore:
 | `JavaScript (ES6)` | `Canvas/WebGL` | — |
 
 ---
+
+
 
 ## 🛠️ How to Run Locally(try playing with it yourself)
 
@@ -104,6 +120,8 @@ npm run dev
 
 ```
 ---
+
+
 ## 🐳 Now Runs in Docker!
 
 > You can now run the entire project inside a Docker container — no need to install Node, Vite, or any dependencies manually.
@@ -122,6 +140,8 @@ To run this project locally using Docker, you need just a few things set up:
 - **Working internet connection** (for the first-time image pull)
 
 ---
+
+
 
 #### 🚀 Steps to Run in Docker
 
