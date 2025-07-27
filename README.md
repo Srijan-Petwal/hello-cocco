@@ -18,8 +18,17 @@
 
 ---
 
-### 🌐 **Live Demo**
+### 🌐 **Live Demo with Netlify**
 🚀 [coccos-world.netlify.app](https://coccos-world.netlify.app)
+
+## ☁️ **Live Demo with AWS EC2 Deployment**
+
+> 🚀 **Now hosted on a custom EC2 instance via Docker!**  
+> This deployment showcases my growing expertise in DevOps — moving beyond platforms like Netlify for a more hands-on infrastructure experience.
+
+🔗 [http://16.171.199.186:3000](http://16.171.199.186:3000)  
+_(Hosted on AWS EC2 — may take a few seconds to wake up if idle)_
+
 
 ## 🎥 Project Videos
 
@@ -93,24 +102,12 @@ docker run -it -p 3000:3000 srijan5/cocco-world
 ```
 ---
 
-## ☁️ AWS EC2 Deployment
-
-> 🚀 **Now hosted on a custom EC2 instance via Docker!**  
-> This deployment showcases my growing expertise in DevOps — moving beyond platforms like Netlify for a more hands-on infrastructure experience.
-
----
-
-### 📍 Live Deployment
-
-🔗 [http://16.171.199.186:3000](http://16.171.199.186:3000)  
-_(Hosted on AWS EC2 — may take a few seconds to wake up if idle)_
-
-#### EC2- Instance Screenshot
+### EC2- Instance Screenshot
 
 ![EC2 Dashboard](EC2-instance.png)
 ---
 
-### 💡 Why EC2?
+### 💡About Why AWS EC2 Deployment?
 
 - 🛠️ To **learn and practice real-world deployment**.
 - 🐳 Run the app inside a **Docker container** on a **Linux VM**.
