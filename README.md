@@ -90,7 +90,7 @@ To run this project locally using Docker, you need just a few things set up:
 ```bash
 # Pull and run the container
 docker run -it -p 3000:3000 srijan5/cocco-world
-
+```
 ---
 
 ## ☁️ AWS EC2 Deployment
