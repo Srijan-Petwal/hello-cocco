@@ -86,3 +86,44 @@ To run this project locally using Docker, you need just a few things set up:
 ```bash
 # Pull and run the container
 docker run -it -p 3000:3000 srijan5/cocco-world
+
+---
+
+## ☁️ AWS EC2 Deployment
+
+> 🚀 **Now hosted on a custom EC2 instance via Docker!**  
+> This deployment showcases my growing expertise in DevOps — moving beyond platforms like Netlify for a more hands-on infrastructure experience.
+
+---
+
+### 📍 Live Deployment
+
+🔗 [http://16.171.199.186:3000](http://16.171.199.186:3000)  
+_(Hosted on AWS EC2 — may take a few seconds to wake up if idle)_
+
+#### EC2- Instance Screenshot
+
+![EC2 Dashboard](EC2-instance.png)
+---
+
+### 💡 Why EC2?
+
+- 🛠️ To **learn and practice real-world deployment**.
+- 🐳 Run the app inside a **Docker container** on a **Linux VM**.
+- 🔐 Handle **firewall settings, ports, and SSH access** manually.
+- 🌍 Gain **deeper insight** into how full-stack apps run on the cloud.
+
+---
+
+### 🧪 Tech Stack Used
+
+- Amazon EC2 (Ubuntu)
+- Docker (Containerized deployment)
+- Public IP with exposed port `3000`
+
+---
+
+### 📦 Deployed Container Command
+
+```bash
+docker run --restart=always -p 3000:3000 srijan5/cocco-world
