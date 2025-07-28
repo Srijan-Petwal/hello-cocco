@@ -1,5 +1,5 @@
 # 🧚‍♀️ Cocco's World (More like Hello world😄)
-
+>[!IMPORTANT]
 > 🧪 A playground of experiments and learnings with `Three.js`, `React Three Fiber`, and `Blender`.  
 > A journey into the world of interactive 3D experiences — one scene at a time.
 
@@ -24,7 +24,7 @@
 🚀 [coccos-world.netlify.app](https://coccos-world.netlify.app)
 
 ## ☁️ **Live Demo with AWS EC2 Deployment**
-
+>[!NOTE]
 > 🚀 **Now hosted on a custom EC2 instance via Docker!**  
 > This deployment showcases my growing expertise in DevOps — moving beyond platforms like Netlify for a more hands-on infrastructure experience.
 
@@ -79,6 +79,7 @@ docker run --restart=always -p 3000:3000 srijan5/cocco-world
 ### 🔹 Demo 2: Animation + Tweak Controls
 [🎬  Watch Demo 2](https://youtu.be/UJzaEgI9rnQ)
 
+>[!NOTE]
 >Credit for all the pre-built models goes to their respective creaters.I tweaked them, gave some of them animations and optimized them a bit. All of them are under various free-use licenses.
 
 ---
@@ -94,6 +95,7 @@ This project is my personal **3D lab** — a place where I explore:
 - 💡 Playing with lighting, materials, cameras, shadows, and scene depth
 - 🔁 Learning best practices for structuring 3D components in React
 
+>[!NOTE]
 > If it's 3D and on the web, this is where I tinker with it!
 
 
@@ -124,9 +126,9 @@ npm run dev
 
 ## 🐳 Now Runs in Docker!
 
+>[!TIP]
 > You can now run the entire project inside a Docker container — no need to install Node, Vite, or any dependencies manually.
-
-This makes previewing the project locally much easier and cleaner. Ideal for sandbox testing, sharing, or running in isolated environments.
+>This makes previewing the project locally much easier and cleaner. Ideal for sandbox testing, sharing, or running in isolated environments.
 ---
 
 ## 🧰 What It Takes to Run Locally with Docker
